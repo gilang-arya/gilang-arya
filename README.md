@@ -31,3 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gilang-arya&show_icons=true&theme=gotham" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gilang-arya&show_icons=true&locale=en&layout=compact&theme=gotham" alt="GitHub Stats" />
+</p>
